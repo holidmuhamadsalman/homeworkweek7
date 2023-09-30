@@ -1,3 +1,35 @@
+const fs = require("fs");
+const { spawnSync } = require("child_process");
+
+function writeLog(logMessage) {
+      const currentTime = new Date().toISOString();
+      const logEntry = `[${currentTime}] ${logMessage}\n`;
+
+      fs.appendFile("log.txt", logEntry, (err) => {
+            if (err) {
+                  console.error("Gagal menulis log ke file:", err);
+            } else {
+                  console.log("Log berhasil ditulis ke file log.txt");
+            }
+      });
+}
+
+const result = spawnSync("node", ["soal1.js"], { encoding: "utf-8" });
+
+if (result.error) {
+      console.error("Gagal menjalankan soal1.js:", result.error);
+} else {
+      fs.readFile("log.txt", "utf-8", (err, data) => {
+            if (err) {
+                  console.error(err);
+            }
+
+            console.log("Data log.txt:", data);
+      });
+      writeLog(result.stdout);
+}
+
+// hasil write and read file dari data sample
 // const fs = require("fs");
 // const luaskeliling = require("./luas_keliling.js");
 // const log = `
@@ -80,34 +112,3 @@
 
 //       console.log("Data:", data);
 // });
-
-const fs = require("fs");
-const { spawnSync } = require("child_process");
-
-function writeLog(logMessage) {
-      const currentTime = new Date().toISOString();
-      const logEntry = `[${currentTime}] ${logMessage}\n`;
-
-      fs.appendFile("log.txt", logEntry, (err) => {
-            if (err) {
-                  console.error("Gagal menulis log ke file:", err);
-            } else {
-                  console.log("Log berhasil ditulis ke file log.txt");
-            }
-      });
-}
-
-const result = spawnSync("node", ["soal1.js"], { encoding: "utf-8" });
-
-if (result.error) {
-      console.error("Gagal menjalankan soal1.js:", result.error);
-} else {
-      fs.readFile("log.txt", "utf-8", (err, data) => {
-            if (err) {
-                  console.error(err);
-            }
-
-            console.log("Data log.txt:", data);
-      });
-      writeLog(result.stdout);
-}
