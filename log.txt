@@ -1,0 +1,93 @@
+[9/29/2023, 23:49:56] Luas Persegi: 64
+
+[9/29/2023, 23:49:56] Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+[9/29/2023, 23:54:10] Luas Persegi: 64
+
+[9/29/2023, 23:54:10] Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[9/30/2023, 00:00:37] Luas Persegi: 64
+
+[9/30/2023, 00:00:37] Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[9/30/2023, 00:02:35] Luas Persegi: 64
+
+[9/30/2023, 00:02:35] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[9/30/2023, 00:02:58] Luas Persegi: 64
+
+[9/30/2023, 00:02:58] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[9/30/2023, 00:03:59] Luas Persegi: 64
+
+[9/30/2023, 00:03:59] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[9/30/2023, 00:04:26] Luas Persegi: 64
+
+[9/30/2023, 00:04:26] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[9/30/2023, 00:05:09] Luas Persegi: 64
+
+[9/30/2023, 00:05:10] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-29T17:24:11.376Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-29T17:24:34.220Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-29T17:25:39.954Z] [object Object]
+[2023-09-29T17:25:49.786Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-29T17:33:25.529Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-29T17:40:04.755Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-29T17:40:28.728Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
+[2023-09-30T04:26:15.407Z] Luas Persegi: 64
+Keliling Persegi: 32
+Luas Persegi Panjang: 30
+Keliling Persegi Panjang: 22
+
